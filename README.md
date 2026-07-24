@@ -26,12 +26,14 @@
 ### GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dart0707&show_icons=true&theme=tokyonight&hide_rank=true&hide=issues,prs" alt="GitHub Stats" width="46%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dart0707&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="46%" />
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dart0707&layout=compact&theme=tokyonight&langs_count=4" alt="Top Languages" width="46%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dart0707&layout=compact&theme=tokyonight&langs_count=4&hide_border=true" alt="Top Languages" width="46%" />
 </p>
 
 ---
 
-📫 **Connect with me:**  
-* 💼 **LinkedIn:** [Dartagnan Barcelon](https://www.linkedin.com/in/dartagnan-barcelon-68105a326)
+**Connect with me:**  
+<a href="https://www.linkedin.com/in/dartagnan-barcelon-68105a326" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Dartagnan_Barcelon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
