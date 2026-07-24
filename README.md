@@ -30,10 +30,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dart0707&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Dart0707/Dart0707/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
