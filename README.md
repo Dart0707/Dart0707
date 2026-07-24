@@ -26,9 +26,21 @@
 ### GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dart0707&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="46%" />
+  <img src="https://github-profile-trophies.vercel.app/?username=Dart0707&theme=tokyonight&column=4&margin-w=15&no-frame=true" alt="Dart's GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Dart0707&show_icons=true&theme=tokyonight&hide_rank=true&hide=issues,prs&hide_border=true" alt="GitHub Stats" width="46%" />
   &nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dart0707&layout=compact&theme=tokyonight&langs_count=4&hide_border=true" alt="Top Languages" width="46%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dart0707&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dart0707/Dart0707/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
