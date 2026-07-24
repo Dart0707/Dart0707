@@ -26,10 +26,6 @@
 ### GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=Dart0707&theme=tokyonight&column=4&margin-w=15&no-frame=true" alt="Dart's GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Dart0707&show_icons=true&theme=tokyonight&hide_rank=true&hide=issues,prs&hide_border=true" alt="GitHub Stats" width="46%" />
   &nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dart0707&layout=compact&theme=tokyonight&langs_count=4&hide_border=true" alt="Top Languages" width="46%" />
